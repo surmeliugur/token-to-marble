@@ -114,13 +114,13 @@ Status
 
 Version: v0.1 (experimental)
 
-Token extraction: ✅
+Token extraction: Complete
 
-Frequency universe: ✅
+Frequency universe: Complete
 
-Marble candidates: 🔄
+Marble candidates: in progress
 
-Field calibration: 🔬 research phase
+Field calibration: rsearch phase
 
 Philosophy (Minimal)
 
@@ -131,12 +131,5 @@ This repository is an attempt to model that — carefully.
 
 License
 
-Open research use.
-Details to be clarified as the project matures.
-
-It has structure, weight, and interaction.
-This repository is an attempt to model that — carefully.
-
-License
 Open research use.
 Details to be clarified as the project matures.
